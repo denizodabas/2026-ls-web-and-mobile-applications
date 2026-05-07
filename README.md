@@ -34,13 +34,14 @@ Welcome to the Mobile App & Web Development course. This semester, we are moving
 ---
 
 ## 📝 Final Submission Requirements (Week 11-12)
-To receive credit for the course, you must submit a **Final Report** documented in this repository.
+To receive credit for the course, you must submit a **Final Report** documented in this repository and your repository as well.
 
 ### 🛠 Submission Steps
 1.  **Format:** A single Markdown (`.md`) file od a PDF file created in MS Word.
-2.  **Location:** `/reports/SURNAME_FIRSTNAME_REPORT.md`.
-3.  **Deadline:** All code and reports must be pushed to GitHub before the Week 12 session.
-4.  **Method:** **Pull Request (PR)**.
+2.  **Location 1:** `your-repository/week-11/REPORT.pdf`.
+3.  **Location 2:** `my-repository/week-11/reports/NAME_SURNAME_REPORT.pdf`.
+4.  **Deadline:** All code and reports must be pushed to GitHub before the Week 12 session.
+5.  **Method:** **Pull Request (PR)**.
     * PR Title: `[ODD/EVEN] Final Report - Surname Firstname`
 
 ### 📝 Report Structure
